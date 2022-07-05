@@ -35,4 +35,4 @@ _This README was generated with ❤️ by [README-generator](https://github.com/
     `;
   }
   
-  module.exports = generateMarkdown;
+  module.exports = generateReadme;
