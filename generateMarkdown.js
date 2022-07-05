@@ -31,7 +31,7 @@ ${answers.questions}<br />
 :octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
 ✉️ Email me with any questions: ${answers.email}<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
+_This README was generated with ❤️ by [${answers.username}]
     `;
   }
   
