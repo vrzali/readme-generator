@@ -57,7 +57,7 @@ function promptUser() {
         {
             type: "input",
             name: "email",
-            message: "Please enter your email"
+            message: "Please enter your email:"
         }
     ]);
 }

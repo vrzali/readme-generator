@@ -18,7 +18,7 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 ## License
-![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)
+[![license](https://img.shields.io/badge/license-${data.licensing}-blue)](https://shields.io)
 <br />
 This application is covered by the ${answers.license} license. 
 ## Contributing
