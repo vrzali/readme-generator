@@ -29,18 +29,10 @@ function promptUser() {
             message: "What is this project usage for?"
         },
         {
-            tyoe: "list",
+            type: "list",
             name: "lisence",
             message: "Choose the applicable license for this project: ",
-            choices: [
-                "Apache",
-                "Academic",
-                "GNU",
-                "ISC",
-                "MIT",
-                "Mozilla",
-                "Open"
-            ]
+            choices: ["Apache","Academic","GNU","ISC","MIT","Mozilla","Open"]
         },
         {
             type: "input",

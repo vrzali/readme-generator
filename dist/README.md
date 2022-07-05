@@ -23,12 +23,12 @@ This application is covered by the undefined license.
 ## Contributing
 x
 ## Tests
-x
+y
 ## Questions
-x<br />
+y<br />
 <br />
-:octocat: Find me on GitHub: [x](https://github.com/x)<br />
+:octocat: Find me on GitHub: [y](https://github.com/y)<br />
 <br />
-✉️ Email me with any questions: x<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/jpd61/README-generator) 🔥🔥🔥_
+✉️ Email me with any questions: y<br /><br />
+_This README was generated with ❤️ by [y]
     
