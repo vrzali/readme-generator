@@ -66,4 +66,18 @@ function promptUser() {
         }
     ]);
 }
-promptUser();
+
+
+async function init() {
+    try {
+        const answers = await promptUser();
+        const generateContent = generateReadme(answers);
+
+        await writeFileAsync('/.dist/README.md', generateContent);
+    }
+    catch(err) {
+        console.log(err);
+    }
+}
+
+init();
