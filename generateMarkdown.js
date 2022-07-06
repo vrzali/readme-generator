@@ -1,6 +1,6 @@
 function generateReadme(answers) {
     return `
-    <h1 align="center">${answers.projectName}</h1>
+#${answers.projectName}
   
 ![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
 ## Description
@@ -31,7 +31,6 @@ ${answers.questions}<br />
 :octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
 If you have any questions, please email me at: ${answers.email}<br /><br />
-_This README was generated with ❤️ by ${answers.username}
     `;
   }
   
