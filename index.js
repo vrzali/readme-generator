@@ -2,7 +2,7 @@ const fs = require('fs');
 const inquirer = require('inquirer');
 const util = require ('util');
 const generateReadme = require("./generateMarkdown");
-const writeFileAsync =  util.promisify(fs.writeFile);
+const writeReadme =  util.promisify(fs.writeFile);
 
 
 
@@ -10,7 +10,7 @@ function promptUser() {
     return inquirer.prompt ([
         {
             type: "input",
-            name: "projectTitle",
+            name: "projectName",
             message: "What is the project name?",
         },
         {
@@ -68,7 +68,7 @@ async function init() {
         const answers = await promptUser();
         const generateContent = generateReadme(answers);
 
-        await writeFileAsync('./dist/README.md', generateContent);
+        await writeReadme('./dist/README.md', generateContent);
     }
     catch(err) {
         console.log(err);

@@ -1,9 +1,9 @@
 
-    <h1 align="center">x</h1>
+    <h1 align="center">w</h1>
   
-![badge](https://img.shields.io/badge/license-Apache-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
 ## Description
-x
+w
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,22 +13,22 @@ x
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-x
+w
 ## Usage
-x
+w
 ## License
-[![license](https://img.shields.io/badge/license-Apache-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-Academic-blue)](https://shields.io)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the Academic license. 
 ## Contributing
-x
+w
 ## Tests
-x
+w
 ## Questions
-x<br />
+w<br />
 <br />
-:octocat: Find me on GitHub: [x](https://github.com/x)<br />
+:octocat: Find me on GitHub: [w](https://github.com/w)<br />
 <br />
-✉️ Email me with any questions: x<br /><br />
-_This README was generated with ❤️ by [x]
+If you have any questions, please email me at: w<br /><br />
+_This README was generated with ❤️ by w
     
