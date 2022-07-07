@@ -23,9 +23,7 @@ Vadad Rzali
 ## Tests
 None
 ## Questions
-<br />
-<br />
-Find me on GitHub: [o](https://github.com/vrzali)<br />
+Find me on GitHub: (https://github.com/vrzali)<br />
 <br />
 If you have any questions, please email me at: vedad.rzali@gmail.com<br /><br />
     
