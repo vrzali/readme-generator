@@ -1,9 +1,9 @@
 
-    <h1 align="center">w</h1>
+#Portfolio Generator
   
-![badge](https://img.shields.io/badge/license-Academic-brightgreen)<br />
+![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
 ## Description
-w
+Application to generate a README.md file
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,22 +13,21 @@ w
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-w
+Instal by typing 'npm install'
 ## Usage
-w
+x
 ## License
-[![license](https://img.shields.io/badge/license-Academic-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-ISC-blue)](https://shields.io)
 <br />
-This application is covered by the Academic license. 
+This application is covered by the ISC license. 
 ## Contributing
-w
+x
 ## Tests
-w
+x
 ## Questions
-w<br />
+x<br />
 <br />
-:octocat: Find me on GitHub: [w](https://github.com/w)<br />
+:octocat: Find me on GitHub: [x](https://github.com/x)<br />
 <br />
-If you have any questions, please email me at: w<br /><br />
-_This README was generated with ❤️ by w
+If you have any questions, please email me at: x<br /><br />
     
