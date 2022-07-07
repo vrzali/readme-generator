@@ -1,7 +1,7 @@
 
-# O
+# Readme Generator
 ## Description
-o
+A simple application to build a README file
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -11,21 +11,21 @@ o
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-o
+To install it type npm install in your command line
 ## Usage
-o
+To start using it enter node index
 ## License
-[![license](https://img.shields.io/badge/license-Apache-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-Open-blue)](https://shields.io)
 <br />
-This application is covered by the Apache license. 
+This application is covered by the Open license. 
 ## Contributing
-o
+Vadad Rzali
 ## Tests
-o
+None
 ## Questions
-o<br />
+Email me if you have any issues<br />
 <br />
-Find me on GitHub: [o](https://github.com/o)<br />
+Find me on GitHub: [vrzali](https://github.com/vrzali)<br />
 <br />
-If you have any questions, please email me at: o<br /><br />
+Email me: vedad.rzali@gmail.com<br /><br />
     
