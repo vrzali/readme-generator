@@ -28,7 +28,7 @@ ${answers.questions}<br />
 <br />
 Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
-If you have any questions, please email me at: ${answers.email}<br /><br />
+Email me: ${answers.email}<br /><br />
     `;
   }
   
