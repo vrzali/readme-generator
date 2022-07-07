@@ -1,8 +1,6 @@
 function generateReadme(answers) {
     return `
-#${answers.projectName}
-  
-![badge](https://img.shields.io/badge/license-${answers.license}-brightgreen)<br />
+# ${answers.projectName}
 ## Description
 ${answers.description}
 ## Table of Contents
@@ -28,7 +26,7 @@ ${answers.tests}
 ## Questions
 ${answers.questions}<br />
 <br />
-:octocat: Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
+Find me on GitHub: [${answers.username}](https://github.com/${answers.username})<br />
 <br />
 If you have any questions, please email me at: ${answers.email}<br /><br />
     `;

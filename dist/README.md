@@ -1,9 +1,7 @@
 
-#Portfolio Generator
-  
-![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
+# O
 ## Description
-Application to generate a README.md file
+o
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,21 +11,21 @@ Application to generate a README.md file
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-Instal by typing 'npm install'
+o
 ## Usage
-x
+o
 ## License
-[![license](https://img.shields.io/badge/license-ISC-blue)](https://shields.io)
+[![license](https://img.shields.io/badge/license-Apache-blue)](https://shields.io)
 <br />
-This application is covered by the ISC license. 
+This application is covered by the Apache license. 
 ## Contributing
-x
+o
 ## Tests
-x
+o
 ## Questions
-x<br />
+o<br />
 <br />
-:octocat: Find me on GitHub: [x](https://github.com/x)<br />
+Find me on GitHub: [o](https://github.com/o)<br />
 <br />
-If you have any questions, please email me at: x<br /><br />
+If you have any questions, please email me at: o<br /><br />
     
